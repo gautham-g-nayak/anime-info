@@ -1,14 +1,33 @@
 # anime-info
 
-This template should help get you started developing with Vue 3 in Vite.
+The "Anime Info" project is a frontend responsive application built with Vue 3. It aims to provide information about various anime series.
 
-## Recommended IDE Setup
+## Live Project
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Check out the live project: [Anime Info](https://gautham-g-nayak.github.io)
 
-## Customize configuration
+## Technologies Used
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Vue 3
+- JavaScript
+- CSS
+- HTML
+- Pinia
+- Git
+
+## Project Structure
+
+The project follows a standard Vue.js application structure. Below is an overview of the main directories and their contents.
+
+```plaintext
+src/
+ ├── components/      # Vue components
+ ├── views/           # Different views of the application
+ ├── assets/          # Static assets like images and styles
+ ├── router/          # Vue Router configuration
+ ├── utils/           # utilities
+ └── stores/          # Store configuration
+```
 
 ## Project Setup
 
@@ -22,20 +41,3 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
