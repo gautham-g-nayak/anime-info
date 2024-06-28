@@ -6,7 +6,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://gautham-g-nayak.github.io/anime-info/",
+  base: "/anime-info/",
   plugins: [vue(), vueJsx()],
   resolve: {
     alias: {
