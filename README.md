@@ -4,7 +4,7 @@ The "Anime Info" project is a frontend responsive application built with Vue 3. 
 
 ## Live Project
 
-Check out the live project: [Anime Info](https://gautham-g-nayak.github.io)
+Check out the live project: [Anime Info](https://gautham-g-nayak.github.io/anime-info/)
 
 ## Technologies Used
 
